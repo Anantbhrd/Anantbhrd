@@ -1,21 +1,20 @@
 # 💫 About Me:
 Hi, I'm Anant Bhardwaj
 
-🎓 19-year-old B.Tech ECE student
-🧠 Currently learning C , C++ , JAVA Alongside Python
+🎓 19-year-old B.Tech ECE student\
+🧠 Currently learning C , C++ , JAVA Alongside Python\
 ⚡ Exploring Arduino Coding , Matlab 
 
 🚀 I'm passionate about building a strong foundation in Electronics and Build Exciting Projects Daily. Alongside, I’ve also worked as a freelance YouTube Video Editor, which helped me develop creativity.
 
 Skills:
 
-Languages: C, C++ , Java and Python
-Creative Tools: Adobe Premiere Pro
-Current Focus:
-
-Mastering Electronics
-Learn More about sensors and there working and how can i combine them and build something thats actually usefull
-Fun Fact: I like to Overthing too much.<br>
+Languages: C, C++ , Java and Python\
+Creative Tools: Adobe Premiere Pro\
+Current Focus: 
+Mastering Electronics\
+Learn More about sensors and there working and how can i combine them and build something thats actually usefull\
+Fun Fact: I like to Overthing too much\.<br>
 
 
 ## 🌐 Socials:
