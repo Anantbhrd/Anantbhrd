@@ -14,6 +14,8 @@ Creative Tools: Adobe Premiere Pro\
 Current Focus: 
 Mastering Electronics\
 Learn More about sensors and there working and how can i combine them and build something thats actually usefull\
+
+
 Fun Fact: I like to Overthing too much\.<br>
 
 
